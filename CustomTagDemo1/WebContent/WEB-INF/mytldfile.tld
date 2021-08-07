@@ -1,0 +1,18 @@
+<taglib>
+	<tlib-version>2.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+
+	<uri>http://www.niit.com</uri>
+
+	<tag>
+		<name>date</name>
+		<tag-class>org.com.MyDate</tag-class>
+	
+	</tag>
+	
+	<tag>
+		<name>bold</name>
+		<tag-class>org.com.MyBold</tag-class>	
+	</tag>
+
+</taglib>
